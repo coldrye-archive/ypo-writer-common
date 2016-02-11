@@ -1,6 +1,6 @@
 {
   "name": "ypo-writer-common",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Commonly shared code for use by ypo writer implementations",
   "keywords": [
     "ypo",
